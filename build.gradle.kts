@@ -25,7 +25,7 @@ dependencies {
 
 tasks {
     named<ShadowJar>("shadowJar") {
-        archiveBaseName.set("BlockPhysics")
+        archiveBaseName.set("minestom-superliminal")
         mergeServiceFiles()
         manifest {
             attributes(mapOf("Main-Class" to "dev.emortal.Main"))
