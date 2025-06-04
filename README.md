@@ -1,6 +1,8 @@
 # minestom-superliminal
 An experiment to recreate the Superliminal forced perspective optical illusion in Minecraft 
 
+[![YouTube demonstration video](https://img.youtube.com/vi/tdEFztdYCcA/0.jpg)](https://www.youtube.com/watch?v=tdEFztdYCcA)
+
 ## Setup
 
 - Download latest
